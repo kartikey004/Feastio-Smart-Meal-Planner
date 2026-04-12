@@ -114,5 +114,5 @@ Feastio/
 
 ## Contact
 
-- **Email** — kartikeym004@gmail.com
-- **LinkedIn** — [linkedin.com/in/kartikey004](https://www.linkedin.com/in/kartikey004/)
+- **Email**: kartikeym004@gmail.com
+- **LinkedIn**: [linkedin.com/in/kartikey004](https://www.linkedin.com/in/kartikey004/)
