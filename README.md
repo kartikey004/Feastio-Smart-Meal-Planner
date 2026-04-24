@@ -1,6 +1,6 @@
 # Feastio: Smart Meal Planner
 
-> AI-powered meal planning platform that generates personalized 7-day meal plans with detailed macros, ingredients and cooking time. Featuring a Gemini powered fitness assistant, adaptive recommendations based on diet, allergies, activity levels and menstrual health preferences, and auto-refreshing nutrition tips.
+> Adaptive meal planning platform that creates a personalized 7 day meal plans with detailed macros, ingredients and cooking time. Featuring a Gemini powered fitness assistant, adaptive recommendations based on diet, allergies, activity levels and menstrual health preferences, and auto-refreshing nutrition tips.
 ---
 
 ## Repositories
