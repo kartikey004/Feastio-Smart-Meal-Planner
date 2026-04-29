@@ -19,7 +19,7 @@
 
 ## What is Feastio?
 
-Feastio is a cross-platform mobile app that uses AI to generate personalized meal plans tailored to your diet preferences, allergies, activity levels, and health conditions.
+Feastio is a cross-platform mobile app that uses AI to create personalized meal plans tailored to your diet preferences, allergies, activity levels, and health conditions.
 
 Key highlights:
 - **7-day AI meal plans** with ingredients, cook times, and macronutrient breakdowns
